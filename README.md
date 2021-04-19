@@ -10,11 +10,11 @@ Each type of exercise is respresented as its own class, which specific workouts 
 ### Class Inheritance Tree
 
 Base Exercise  
-├─ Cardio  
-│  ├─ Jog  
-│  ├─ Walk  
-├─ Strength Training  
-│  ├─ Pushups  
+|─ Cardio  
+│  |- Jog  
+│  |- Walk  
+|- Strength Training  
+│  |- Pushups  
 
 ### CLI
 * WorkoutTracker.h
